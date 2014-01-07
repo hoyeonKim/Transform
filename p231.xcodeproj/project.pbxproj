@@ -21,6 +21,7 @@
 		00B01630187C108700D6F349 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 00B01612187C108700D6F349 /* UIKit.framework */; };
 		00B01638187C108700D6F349 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 00B01636187C108700D6F349 /* InfoPlist.strings */; };
 		00B0163A187C108700D6F349 /* p231Tests.m in Sources */ = {isa = PBXBuildFile; fileRef = 00B01639187C108700D6F349 /* p231Tests.m */; };
+		00B01644187C10E200D6F349 /* ss.png in Resources */ = {isa = PBXBuildFile; fileRef = 00B01643187C10E200D6F349 /* ss.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,6 +54,7 @@
 		00B01635187C108700D6F349 /* p231Tests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "p231Tests-Info.plist"; sourceTree = "<group>"; };
 		00B01637187C108700D6F349 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		00B01639187C108700D6F349 /* p231Tests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = p231Tests.m; sourceTree = "<group>"; };
+		00B01643187C10E200D6F349 /* ss.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ss.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -112,6 +114,7 @@
 		00B01614187C108700D6F349 /* p231 */ = {
 			isa = PBXGroup;
 			children = (
+				00B01643187C10E200D6F349 /* ss.png */,
 				00B0161D187C108700D6F349 /* AppDelegate.h */,
 				00B0161E187C108700D6F349 /* AppDelegate.m */,
 				00B01620187C108700D6F349 /* Main.storyboard */,
@@ -231,6 +234,7 @@
 				00B01627187C108700D6F349 /* Images.xcassets in Resources */,
 				00B01619187C108700D6F349 /* InfoPlist.strings in Resources */,
 				00B01622187C108700D6F349 /* Main.storyboard in Resources */,
+				00B01644187C10E200D6F349 /* ss.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
